@@ -9,7 +9,7 @@ namespace TestAppMan
     {
         static void Main(string[] args)
         {
-            //BingoGame();
+            BingoGame();
             FormulaCalculation();
         }
 
